@@ -1,5 +1,5 @@
 PKG_NAME := fig2dev
-URL = https://dev.gnupg.org/source/libgcrypt.git
+URL = https://salsa.debian.org/debian/fig2dev.git
 ARCHIVES = 
 ARCHIVES_GIT = 
 
